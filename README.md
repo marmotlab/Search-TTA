@@ -1,5 +1,6 @@
 # Search-TTA
 Public Website: https://search-tta.github.io/
+Paper: https://arxiv.org/pdf/2505.11350
 
 Code will be made available soon.
 
