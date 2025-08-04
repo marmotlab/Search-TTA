@@ -11,7 +11,6 @@
 
 <video width="90%" autoplay muted loop>
   <source src="assets/Real_Drone_Yosemite_1500bitrate.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
 </div>
