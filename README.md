@@ -10,7 +10,7 @@
 <!-- <img src="assets/Real_Drone_Yosemite_1500bitrate.mp4" width="90%"/> -->
 
 <video width="90%" autoplay muted loop>
-  <source src="assets/Real_Drone_Yosemite_1500bitrate.mp4" type="video/mp4">
+  <source src="./assets/Real_Drone_Yosemite_1500bitrate.mp4" type="video/mp4">
 </video>
 
 </div>
